@@ -1,4 +1,4 @@
-# Maison_intelligente
+# Maison Intelligente (Smart Home)
 
 ### Contexte général du projet:
 
